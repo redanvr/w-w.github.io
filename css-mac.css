@@ -1,0 +1,32 @@
+.s-i-1 {
+	background: #DDE6F5;  /* fallback for old browsers */
+background: linear-gradient(to right, #DAE3EF, #EBF1FC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.s-i-2 {
+	background: #FC466B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);
+background: linear-gradient(110deg, #3F5EFB, #FC466B); 
+
+}
+.s-i-3 {
+background: #DDE6F5;  /* fallback for old browsers */
+background: linear-gradient(to right, #DAE3EF, #EBF1FC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+color: white;
+}
+.s-i-1 h4 {
+	color: #262626;
+}
+.s-i-1 h6 {
+	color: #464646;
+}
+
+.s-i-3 h4 {
+	color: #262626;
+}
+.s-i-3 h6 {
+	color: #464646;
+}
+
+background: rgb(63, 94, 251);
