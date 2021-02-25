@@ -336,7 +336,7 @@ background: linear-gradient(130deg, #6D97F5, #AAF7FC); */
   background: #1f2529;
   opacity: 0.6;
   min-height: 100vh;
-  overflow: inherit;
+  overflow: auto;
 }
 .content-text {
 	max-width: 100%;
