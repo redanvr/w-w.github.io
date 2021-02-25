@@ -335,6 +335,7 @@ background: linear-gradient(130deg, #6D97F5, #AAF7FC); */
   bottom: 0;
   background: #1f2529;
   opacity: 0.6;
+  min-height: 100vh;
 }
 .content-text {
 	max-width: 100%;
